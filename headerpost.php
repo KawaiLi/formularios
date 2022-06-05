@@ -10,8 +10,8 @@
 <body>
 
  <form action = 'header.php' method 'post'>
-   <input type 'text' name = 'brand_label'></input>
-   <input type 'submit'></input>
+   <input type = 'text' name = 'brand_label'></input>
+   <input type = 'submit'></input>
  </form>
 
 </body>
