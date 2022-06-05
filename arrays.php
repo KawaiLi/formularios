@@ -2,8 +2,8 @@
 include 'header.php';
 echo $header_hmtl;
 $libros = array('McGrawHill' => array('Tema' => 'Energía', 'Año' => '1995'),
-                'Pearson' => array('Tema' => 'Cálculo', 'Año' => '2003')
-                'Internacional' => array('Tema' => 'Filosofía', 'Año' =>'2012' )
+                'Pearson' => array('Tema' => 'Cálculo', 'Año' => '2003'),
+                'Internacional' => array('Tema' => 'Filosofía', 'Año' =>'2012' ),
                 'Planeta' => array('Tema' => 'Innovación', 'Año' => '2008'));
 
  ?>
